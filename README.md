@@ -24,8 +24,8 @@ I build backend systems and quantitative tooling, production Spring services dur
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css,postgres&perline=8&theme=dark">
-  <img height="52" alt="Java, Python, C++, C, JavaScript, HTML, CSS, SQL" src="https://skillicons.dev/icons?i=java,py,cpp,c,js,html,css,postgres&perline=8&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cpy%2Ccpp%2Cc%2Cjs%2Chtml%2Ccss%2Cpostgres&perline=8&theme=dark">
+  <img height="52" alt="Java, Python, C++, C, JavaScript, HTML, CSS, Microsoft SQL" src="https://skillicons.dev/icons?i=java%2Cpy%2Ccpp%2Cc%2Cjs%2Chtml%2Ccss%2Cpostgres&perline=8&theme=light">
 </picture>
 
 **Frameworks & Libraries**<br>
