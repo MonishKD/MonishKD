@@ -1,4 +1,4 @@
-# Hi, I'm Monish Das👋
+# Monish Das Ω
 
 <img align="right" width="230" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
 
