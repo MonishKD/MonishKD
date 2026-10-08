@@ -23,7 +23,7 @@ Shipped the Rebalance Live Schedule feature into UKG's core scheduling backend a
 **Software Test Automation Developer Intern** · Intact Financial Corporation · Sept 2025 – Dec 2025
 Helped build a Java API test automation framework (REST and SOAP) with TestNG, RestAssured, and Maven, replacing a 10+ year old ReadyAPI and Excel based system. Diagnosed the root cause of 100+ regression test failures and wired the suite into Jenkins CI/CD pipelines.
 
-**Research Lead** · QUARCC (Quantitative Research and Competitions Club) · Sept 2024 – Present
+**Research Analyst** · QUARCC (Quantitative Research and Competitions Club) · Sept 2024 – Present
 Research machine learning models for predicting equity price movement and analyse financial market data alongside a team of student researchers.
 
 ## 🚀 Projects
