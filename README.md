@@ -5,7 +5,7 @@
 **Software Engineering (Co-op) @ Concordia University**
 📍 Montreal, QC
 
-I build backend systems and quantitative tooling, production Spring services during my internships, statistical trading models through my university's quant research club.
+I build backend systems and quantitative tooling, production Spring services during my internships, statistical trading models through my university's quant research club. Feel free to visit my LinkedIn for my experiences!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-das-md)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:monishdas2003@gmail.com)
@@ -17,46 +17,6 @@ I build backend systems and quantitative tooling, production Spring services dur
 - Building a **live volatility & risk forecasting system** for QUARCC
 - Going deeper on **time series modelling** and **distributed systems design**
 - Open to **Summer 2027 internships** — data engineering, ai development, quant dev, backend development, data platforms.
-
----
-
-### 💼 Experience
-
-#### Software Engineer Intern · Ultimate Kronos Group (UKG)
-<sub>May 2026 – Aug 2026 · Montreal, QC</sub>
-
-Shipped the Rebalance Live Schedule feature into UKG's core scheduling backend across two Spring repositories, with 13 unit tests covering validation and visibility rules. Built a concurrency test harness for the Rebalancer Engine's async REST control plane, validating sub-300 ms p99 latency, request deduplication, and a 1,000-entry distributed LRU cache across 4 endpoints. Extended a single-threaded TestNG framework into a multi-threaded harness (ExecutorService + CountDownLatch) with p95/p99 reporting, enabling load testing the team previously could not run. Replaced multiple per-region Splunk dashboards with a single tokenized view improving observability across roughly 10 scheduling repositories.
-
-#### Software Test Automation Developer Intern · Intact Financial Corporation
-<sub>Sept 2025 – Dec 2025 · Montreal, QC</sub>
-
-Collaborated on building a Java API test automation framework (REST & SOAP) using TestNG, RestAssured, and Maven, replacing a 10+ year old ReadyAPI and Excel based framework. Diagnosed the root cause of 100+ regression test failures and debugged failing scenarios in ReadyAPI. Streamlined automated testing through Jenkins CI/CD pipelines.
-
-#### Quantitative Research Analyst · QUARCC
-<sub>Sept 2024 – Present · Concordia University</sub>
-
-Research machine learning models for predicting equity price movement and analyse financial market data alongside a team of student researchers.
-
----
-
-### 🚀 Projects
-
-#### FX Mean-Reversion Trading Bot
-<sub>`Python` · `pandas` · `SciPy` · `NumPy` · `OANDA v20 REST API`</sub>
-
-Live algorithmic trading system covering 6 FX pairs on 15-minute candles. Fits a t-distribution to each pair's deviation from a 60-period moving average and enters when the standardized score exceeds 2. Bid and ask series are fit independently and both must clear entry thresholds, rejecting signals that survive on only one side of the spread and would be unprofitable after transaction costs. The execution loop runs unattended: UTC candle-boundary scheduling, exponential-backoff retries, broker position reconciliation at startup, and notional-normalized order sizing.
-
-#### MealMajor
-<sub>`Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `GitHub Actions`</sub>
-
-Backend and database layer for a full-stack meal-planning application. Modeled users, recipes, and password reset tokens in PostgreSQL via Prisma — schema design, client setup, migration workflow. CI runs install, test, and build checks on every push and pull request to main.
-
-#### Java Blockchain Simulator
-<sub>`Java` · `SHA-256` · `Elliptic Curve Cryptography`</sub>
-
-Blockchain built from scratch: block hashing, previous-hash linking, and Proof of Work mining with difficulty adjustment. Integrity validation detects tampering through SHA-256 hash linkage, with transactions signed via ECC key pairs and wallet address verification.
-
----
 
 ### 🛠 Stack
 
