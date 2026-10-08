@@ -20,6 +20,25 @@ I build backend systems and quantitative tooling, production Spring services dur
 
 ---
 
+### 💼 Experience
+
+#### Software Engineer Intern · Ultimate Kronos Group (UKG)
+<sub>May 2026 – Aug 2026 · Montreal, QC</sub>
+
+Shipped the Rebalance Live Schedule feature into UKG's core scheduling backend across two Spring repositories, with 13 unit tests covering validation and visibility rules. Built a concurrency test harness for the Rebalancer Engine's async REST control plane, validating sub-300 ms p99 latency, request deduplication, and a 1,000-entry distributed LRU cache across 4 endpoints. Extended a single-threaded TestNG framework into a multi-threaded harness (ExecutorService + CountDownLatch) with p95/p99 reporting, enabling load testing the team previously could not run. Replaced multiple per-region Splunk dashboards with a single tokenized view improving observability across roughly 10 scheduling repositories.
+
+#### Software Test Automation Developer Intern · Intact Financial Corporation
+<sub>Sept 2025 – Dec 2025 · Montreal, QC</sub>
+
+Collaborated on building a Java API test automation framework (REST & SOAP) using TestNG, RestAssured, and Maven, replacing a 10+ year old ReadyAPI and Excel based framework. Diagnosed the root cause of 100+ regression test failures and debugged failing scenarios in ReadyAPI. Streamlined automated testing through Jenkins CI/CD pipelines.
+
+#### Quantitative Research Analyst · QUARCC
+<sub>Sept 2024 – Present · Concordia University</sub>
+
+Research machine learning models for predicting equity price movement and analyse financial market data alongside a team of student researchers.
+
+---
+
 ### 🚀 Projects
 
 #### FX Mean-Reversion Trading Bot
