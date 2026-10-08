@@ -1,11 +1,11 @@
-<img align="right" width="260" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
-
 # Hi, I'm Monish 👋
+
+<img align="right" width="260" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
 
 **Software Engineering (Co-op) @ Concordia University**
 📍 Montreal, QC
 
-I build backend systems and quantitative tooling — production Spring services during my internships, statistical trading models through my university's quant research club.
+I build backend systems and quantitative tooling, production Spring services during my internships, statistical trading models through my university's quant research club.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-das-md)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:monishdas2003@gmail.com)
