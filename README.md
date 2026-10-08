@@ -16,7 +16,7 @@ I build backend systems and quantitative tooling, production Spring services dur
 
 - Building a **live volatility & risk forecasting system** for QUARCC
 - Going deeper on **time series modelling** and **distributed systems design**
-- Open to **Summer 2027 internships** — backend, quant dev, data platforms
+- Open to **Summer 2027 internships** — data engineering, ai development, quant dev, backend development, data platforms.
 
 ---
 
