@@ -97,7 +97,7 @@ Blockchain built from scratch: block hashing, previous-hash linking, and Proof o
 ### 📊 Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MonishKD&show_icons=true&hide_border=true&commits_year=2026&custom_title=Monish's%202026&theme=transparent&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats for 2026" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MonishKD&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonishKD&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2" alt="Top languages" />
 </p>
 
