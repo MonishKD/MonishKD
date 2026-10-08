@@ -15,17 +15,6 @@ I build backend systems and quantitative tooling. Most of my work lives at the p
 - Deepening my grounding in **time series modelling** and **distributed systems design**
 - Open to **Summer 2027 internships** in backend engineering, quantitative development, and data platforms
 
-## 💼 Experience
-
-**Software Developer Intern** · Ultimate Kronos Group (UKG) · May 2026 – Aug 2026
-Shipped the Rebalance Live Schedule feature into UKG's core scheduling backend across two Spring repositories, with 13 unit tests covering validation and visibility rules. Built a concurrency test harness for the Rebalancer Engine's async REST control plane, validating sub-300 ms p99 latency, request deduplication, and a 1,000-entry distributed LRU cache across 4 endpoints. Extended a single-threaded TestNG framework into a multi-threaded harness (ExecutorService + CountDownLatch) with p95/p99 reporting, enabling load testing the team previously could not run.
-
-**Software Test Automation Developer Intern** · Intact Financial Corporation · Sept 2025 – Dec 2025
-Helped build a Java API test automation framework (REST and SOAP) with TestNG, RestAssured, and Maven, replacing a 10+ year old ReadyAPI and Excel based system. Diagnosed the root cause of 100+ regression test failures and wired the suite into Jenkins CI/CD pipelines.
-
-**Research Analyst** · QUARCC (Quantitative Research and Competitions Club) · Sept 2024 – Present
-Research machine learning models for predicting equity price movement and analyse financial market data alongside a team of student researchers.
-
 ## 🚀 Projects
 
 ### FX Mean-Reversion Trading Bot
