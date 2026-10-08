@@ -87,3 +87,5 @@ English · French · Bangla · Hindi
 ---
 
 📫 **Reach me at** [monishdas2003@gmail.com](mailto:monishdas2003@gmail.com)
+<img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
+
