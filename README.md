@@ -12,8 +12,6 @@ I build backend systems and quantitative tooling — production Spring services 
 
 <br>
 
----
-
 ### 🔭 Currently
 
 - Building a **live volatility & risk forecasting system** for QUARCC
