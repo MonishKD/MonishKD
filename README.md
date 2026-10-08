@@ -1,6 +1,6 @@
-# Hi, I'm Monish 👋
+# Hi, I'm Monish Das👋
 
-<img align="right" width="260" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
+<img align="right" width="270" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
 
 **Software Engineering (Co-op) @ Concordia University**
 📍 Montreal, QC
