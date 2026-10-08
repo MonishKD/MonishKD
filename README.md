@@ -1,6 +1,6 @@
 # Hi, I'm Monish Das👋
 
-<img align="right" width="270" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
+<img align="right" width="230" alt="" src="https://github.com/user-attachments/assets/14212c1f-33e6-477e-b990-2a3019a62e8e" />
 
 **Software Engineering (Co-op) @ Concordia University**
 📍 Montreal, QC
@@ -10,13 +10,15 @@ I build backend systems and quantitative tooling, production Spring services dur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/monish-das-md)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:monishdas2003@gmail.com)
 
-<br clear="both" />
-
 ### 🔭 Currently
 
 - Building a **live volatility & risk forecasting system** for QUARCC
 - Going deeper on **time series modelling** and **distributed systems design**
-- Open to **Summer 2027 internships** — data engineering, ai development, quant dev, backend development, data platforms.
+- Open to **Summer 2027 internships** — data engineering, AI development, quant dev, backend development, data platforms
+
+<br clear="both" />
+
+---
 
 ### 🛠 Stack
 
